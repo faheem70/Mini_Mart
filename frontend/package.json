@@ -35,6 +35,7 @@
     "redux": "^4.1.1",
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.3.0",
+    "update": "^0.7.4",
     "web-vitals": "^1.1.2",
     "webfontloader": "^1.6.28"
   },
